@@ -1,4 +1,6 @@
-# AutoZeit - The History Of Cars At The Bridge Between Two Centuries
+# AutoZeit - Interactive Responsive Nuxt.js Website
+
+You Will Find Out The History Of Cars At The Bridge Between Two Centuries.
 
 Look at the [AutoZeit documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
