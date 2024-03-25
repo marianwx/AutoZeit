@@ -1,8 +1,7 @@
 <template>
 
     <Navbar />
-    <Hero />
-    <End />
+    <Piese />
     <Footer />
 
 </template>
